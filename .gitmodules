@@ -1,0 +1,3 @@
+[submodule "catppuccin/walls-catppuccin-mocha"]
+    path = catppuccin/walls-catppuccin-mocha
+    url = git@github.com:orangci/walls-catppuccin-mocha.git
